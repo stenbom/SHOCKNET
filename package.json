@@ -9,6 +9,8 @@
     "express": "3.0.5",
     "jade": "*",
     "underscore" : "*",
-    "passport" : "*"
+    "passport" : "*",
+    "passport-local" : "*",
+    "mongoose" : "*"
   }
 }
